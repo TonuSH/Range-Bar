@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    outline:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:100vh;
+    
+}
+#range{
+    padding-top: 15px;
+    text-align: center;
+    background-color: #F4D03F;
+    margin-left: 40%;
+    border-radius: 10px;
+}
+input{
+    width:80%;
+    margin: 20px 0 ;
+}
